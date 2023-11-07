@@ -6,5 +6,5 @@ config.php : config the connection to MySQL Database. the 4 following values cha
 - DBHOST : Host Name
 - DBUSER : Username
 - DBPASS : Password for Username
-- DBNAME : Database name\
+- DBNAME : Database name
 
